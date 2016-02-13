@@ -6,11 +6,11 @@
 	
 	<meta http-equiv="Content-Language" content="fr">
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-	<title>Divertissement - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
-	<meta name="description" content="MOB 60 , mobilité dans l'Oise et le Beauvaisis, mise à disposition de cyclomoteurs et atelier mécanique.">
-	<meta name="keywords" content="mobilité, Oise, Picardie, Picardi, mobylette, mobillette, mobylete, mob 60, motocycle, 2 roues, Jérome Mullot, http://mob60.free.fr/index.html, http://mob60.free.fr/, insertion, insercion, cyclomoteur, location, atelier, mécanique, location mobylette, location scooter, scooter, problème, problème de déplacement, aide a la mobilité, aide à la mobilité, aide au transport, transport, mécanique deux roues, aide au déplacement, déplacement, problème de déplacement, location de mobylette, location, location de deux roues, location de cyclomoteur, réparation mobylette, réparation scooter, réparation deux roues, réparation cyclomoteur, aide a l'insertion, beauvais, courroy, crevecoeur, mobilité 60, mobilité oise, mobilité oise picarde, mobilité picardie, grandvillers, milly, formerie, marseille en beauvaisis, saint omer en chaussée, breteuil, froissy, ">
+	<title>Divertissement - MOB 60, MobilitÃ© dans l'Oise et le Beauvaisis</title>
+	<meta name="description" content="MOB 60 , mobilitÃ© dans l'Oise et le Beauvaisis, mise Ã  disposition de cyclomoteurs et atelier mÃ©canique.">
+	<meta name="keywords" content="mobilitÃ©, Oise, Picardie, Picardi, mobylette, mobillette, mobylete, mob 60, motocycle, 2 roues, JÃ©rome Mullot, http://mob60.free.fr/index.html, http://mob60.free.fr/, insertion, insercion, cyclomoteur, location, atelier, mÃ©canique, location mobylette, location scooter, scooter, problÃ¨me, problÃ¨me de dÃ©placement, aide a la mobilitÃ©, aide Ã  la mobilitÃ©, aide au transport, transport, mÃ©canique deux roues, aide au dÃ©placement, dÃ©placement, problÃ¨me de dÃ©placement, location de mobylette, location, location de deux roues, location de cyclomoteur, rÃ©paration mobylette, rÃ©paration scooter, rÃ©paration deux roues, rÃ©paration cyclomoteur, aide a l'insertion, beauvais, courroy, crevecoeur, mobilitÃ© 60, mobilitÃ© oise, mobilitÃ© oise picarde, mobilitÃ© picardie, grandvillers, milly, formerie, marseille en beauvaisis, saint omer en chaussÃ©e, breteuil, froissy, ">
 	<meta name="robots" content="all">
-	<meta name="author" content="Léo MULLOT">
+	<meta name="author" content="LÃ©o MULLOT">
 	<meta name="google-site-verification" content="qnsWKUh5MWlNlFaaQEOH58Aqa7CKJhyg6FvPcslXJZA" />
 	
 	 <script type="text/javascript" src="functions.js"></script>
@@ -28,11 +28,11 @@
  
 <div id="corps" class="special_musique"> 
 
-<p>Vous êtes dans l'espace divertissement de MOB 60, où vous pouvez librement écouter de la musique.<br/> L'équipe de MOB 60 vous souhaite une bonne écoute ! <br/>
+<p>Vous Ãªtes dans l'espace divertissement de MOB 60, oÃ¹ vous pouvez librement Ã©couter de la musique.<br/> L'Ã©quipe de MOB 60 vous souhaite une bonne Ã©coute ! <br/>
 <!--<img src="casque.png" alt="musique" title="musqiue" />-->
 
 <p>
-<del class="gras">Nadjak</del>, un groupe de jeunes isariens qui débute, à écouter absolument, ici où sur <a href="http://www.myspace.com/nadjakgroupe" target="_blank">leur myspace</a><br/>
+<del class="gras">Nadjak</del>, un groupe de jeunes isariens qui dÃ©bute, Ã  Ã©couter absolument, ici oÃ¹ sur <a href="http://www.myspace.com/nadjakgroupe" target="_blank">leur myspace</a><br/>
 
 <table>
 	<tr>
@@ -50,7 +50,7 @@
 </table>
 
 
-"Mobylette" des <del class="gras">Escrocs</del>, la chanson fétiche de MOB 60<br/>
+"Mobylette" des <del class="gras">Escrocs</del>, la chanson fÃ©tiche de MOB 60<br/>
 <object type="application/x-shockwave-flash" data="dewplayer-bubble.swf" width="250" height="65" id="dewplayer" name="dewplayer"> <param name="wmode" value="transparent" /><param name="movie" value="dewplayer-bubble.swf" /> <param name="flashvars" value="mp3=musiques/les_escrocs-la_mobylette.mp3&amp;showtime=1" /> </object>
 
 

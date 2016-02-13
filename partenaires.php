@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
-		<link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
+    <link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
-       <title>Partenaire - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
+       <title>Partenaire - MOB 60, MobilitÃ© dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	   
-	   	 <script type="text/javascript" src="functions.js"></script>
-		 
+     
+       <script type="text/javascript" src="functions.js"></script>
+     
    </head>
  
    <body>
@@ -21,13 +21,13 @@
  
 <div id="corps">
 
-<p>MOB 60 est une association régie par la loi du 1er juillet 1901. Ses actions sont mises en oeuvre grâce au concours des institutions, collectivités et partenaires suivants :<p/>
+<p>MOB 60 est une association rÃ©gie par la loi du 1er juillet 1901. Ses actions sont mises en oeuvre grÃ¢ce au concours des institutions, collectivitÃ©s et partenaires suivants :<p/>
 
 <p>
-<a class="partenaire_sans_bordure" href="http://www.oise.fr/" target="_blank"><img src="images/logo_conseil_General.png" alt="conseil general" title="Conseil Général" />  </a>
+<a class="partenaire_sans_bordure" href="http://www.oise.fr/" target="_blank"><img src="images/logo_conseil_General.png" alt="conseil general" title="Conseil GÃ©nÃ©ral" />  </a>
 </p>
 <p>
-<a class="partenaire_sans_bordure" href="http://www.travail.gouv.fr/" target="_blank"><img src="images/logo_republique_francaise.png" alt="République Française" title="République Française" /></a>
+<a class="partenaire_sans_bordure" href="http://www.travail.gouv.fr/" target="_blank"><img src="images/logo_republique_francaise.png" alt="RÃ©publique FranÃ§aise" title="RÃ©publique FranÃ§aise" /></a>
 </p>
 <p>
 <a class="partenaire_sans_bordure" href="http://www.fondation-psa-peugeot-citroen.org/" target="_blank"><img src="images/logo_PSA.png" alt="PSA Peugeot" title="PSA Peugeot" /></a>

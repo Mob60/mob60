@@ -1,16 +1,16 @@
 
 
-/**************** Début Général ********************/
+/**************** DÃ©but GÃ©nÃ©ral ********************/
 
 
-/* Déclaration de trebuchet MS */
+/* DÃ©claration de trebuchet MS */
 @font-face 
 {
     font-family: "trebuchet_MS";
     src: url('police/trebuchet_MS.ttf');
 }
  
-/* Déclaration de trebuchet version "gras" */
+/* DÃ©claration de trebuchet version "gras" */
 @font-face 
 {
     font-family: "trebuchet_MS";
@@ -25,7 +25,7 @@ body
    background-color: rgb(254,214,143);
    width: 900px;
    margin: auto; /* Pour centrer notre page */
-   margin-top: 20px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur */
+   margin-top: 20px; /* Pour Ã©viter de coller avec le haut de la fenÃªtre du navigateur */
    margin-bottom: 20px; 
    text-align: center;
    font-size: large;
@@ -34,7 +34,7 @@ body
 }
 #menu
 {
-   float: left; /* Le menu flottera à gauche */
+   float: left; /* Le menu flottera Ã  gauche */
    width: 215px; /* donne une taille au menu */
    margin-right: 20px;
    margin-left: 0px;
@@ -42,16 +42,16 @@ body
 .element_menu
 {
    background-repeat: repeat-x;
-   margin-bottom: 20px; /* Pour éviter que les éléments du menu ne soient trop collés */
+   margin-bottom: 20px; /* Pour Ã©viter que les Ã©lÃ©ments du menu ne soient trop collÃ©s */
 }
 
-.element_menu ul /* Toutes les listes à puces se trouvant dans un menu */
+.element_menu ul /* Toutes les listes Ã  puces se trouvant dans un menu */
 {
    list-style-type: none; /* On change l'apparence des puces */
-   padding: 0px; /* Tous les côtés ont une marge intérieure de 0 pixels */
-   padding-left: 0px; /* ... mais on modifie ensuite la marge de gauche, donc celle-là fera finalement 20 pixels */
-   margin: 0px; /* Idem pour margin, ça nous évite d'avoir à en écrire 4 (margin-left, margin-right...) */
-   margin-bottom: 5px; /* Même chose que tout à l'heure, on modifie ensuite juste margin-bottom, mais tous les autres sont à 0px */
+   padding: 0px; /* Tous les cÃ´tÃ©s ont une marge intÃ©rieure de 0 pixels */
+   padding-left: 0px; /* ... mais on modifie ensuite la marge de gauche, donc celle-lÃ  fera finalement 20 pixels */
+   margin: 0px; /* Idem pour margin, Ã§a nous Ã©vite d'avoir Ã  en Ã©crire 4 (margin-left, margin-right...) */
+   margin-bottom: 5px; /* MÃªme chose que tout Ã  l'heure, on modifie ensuite juste margin-bottom, mais tous les autres sont Ã  0px */
    margin-right: 0px;
 }
 
@@ -72,10 +72,10 @@ body
 }
 #corps
 {
-   margin-left: 215px; /* Une marge à gauche pour pousser le corps, afin qu'il ne passe plus sous le menu */
-   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
+   margin-left: 215px; /* Une marge Ã  gauche pour pousser le corps, afin qu'il ne passe plus sous le menu */
+   margin-bottom: 20px; /* Ca c'est pour Ã©viter que le corps colle trop au pied de page en-dessous */
    margin-top : 20px;
-   padding: 5px; /* Pour éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
+   padding: 5px; /* Pour Ã©viter que le texte Ã  l'intÃ©rieur du corps ne colle trop Ã  la bordure */
    border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 }
 
@@ -216,12 +216,12 @@ h2
 }*/
 
 
-/**************** Fin Général ********************/
+/**************** Fin GÃ©nÃ©ral ********************/
 
 
 
 
-/************** Titre déroulant ******************/
+/************** Titre dÃ©roulant ******************/
 
 #cadrpg { width:600px; margin:0 auto; border:0; overflow:hidden;}
 #newshr { position:relative; width:580px; height:85px; overflow:hidden; 
@@ -229,12 +229,12 @@ h2
 #defile { position:absolute; margin-top:1px; background-color:transparent; }
 
 
-/*************** Fin titre déroulant ****************/
+/*************** Fin titre dÃ©roulant ****************/
 
 
 
 
-/************ Début de l'onglet ***************/
+/************ DÃ©but de l'onglet ***************/
 
 
 .menu2{

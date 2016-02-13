@@ -1,6 +1,6 @@
 
 
-/**************** Début Général ********************/
+/**************** DÃ©but GÃ©nÃ©ral ********************/
 
 
 
@@ -9,7 +9,7 @@ body
    background-color: rgb(254,214,143);
    width: 1000px;
    margin: auto; /* Pour centrer notre page */
-   margin-top: 20px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur. Essayez d'enlever pour voir ! */
+   margin-top: 20px; /* Pour Ã©viter de coller avec le haut de la fenÃªtre du navigateur. Essayez d'enlever pour voir ! */
    margin-bottom: 20px; 
    text-align: center;
    font-size: large;
@@ -28,8 +28,8 @@ body
 }
 #corps
 {
-   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
-   padding: 5px; /* Pour éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
+   margin-bottom: 20px; /* Ca c'est pour Ã©viter que le corps colle trop au pied de page en-dessous */
+   padding: 5px; /* Pour Ã©viter que le texte Ã  l'intÃ©rieur du corps ne colle trop Ã  la bordure */
    border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
 }
 
@@ -163,12 +163,12 @@ tr, td, table
 }
 
 
-/**************** Fin Général ********************/
+/**************** Fin GÃ©nÃ©ral ********************/
 
 
 
 
-/************** Titre déroulant ******************/
+/************** Titre dÃ©roulant ******************/
 
 #cadrpg { width:600px; margin:0 auto; border:0; overflow:hidden;}
 #newshr { position:relative; width:580px; height:85px; overflow:hidden; 
@@ -176,7 +176,7 @@ tr, td, table
 #defile { position:absolute; margin-top:1px; background-color:transparent; }
 
 
-/*************** Fin titre déroulant ****************/
+/*************** Fin titre dÃ©roulant ****************/
 
 
 
@@ -264,7 +264,7 @@ tr, td, table
 
 
 
-/************ Début de l'onglet ***************/
+/************ DÃ©but de l'onglet ***************/
 
 
 .menu2{

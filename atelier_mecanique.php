@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
-		<link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
+    <link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
-       <title>Atelier mécanique - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
+       <title>Atelier mÃ©canique - MOB 60, MobilitÃ© dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	   
-	   	 <script type="text/javascript" src="functions.js"></script>
-	   
+     
+       <script type="text/javascript" src="functions.js"></script>
+     
    </head>
  
    <body>
@@ -20,49 +20,49 @@
 
 
 
-<p>La finalité de MOB 60 ne se limite pas aux prestations de mise à disposition de deux roues.</p>
-<p>L'équipe de MOB 60 assure une prise en charge individuelle ou collective qui permettra aux usagers d'acquérir, puis de valoriser, un savoir-faire basique en mécanique.</p>
+<p>La finalitÃ© de MOB 60 ne se limite pas aux prestations de mise Ã  disposition de deux roues.</p>
+<p>L'Ã©quipe de MOB 60 assure une prise en charge individuelle ou collective qui permettra aux usagers d'acquÃ©rir, puis de valoriser, un savoir-faire basique en mÃ©canique.</p>
 
 <p class="alignLeft">
-<strong>L'espace atelier mécanique comporte 4 volets :</strong> </p>
+<strong>L'espace atelier mÃ©canique comporte 4 volets :</strong> </p>
 
 <p class="alignLeft">
-<img src="images/cle_orange.png" alt="clé" />
-<strong>1 -</strong> Une solution d'autonomie à long terme en permettant aux bénéficiaires:</p>
-<pre>          - soit de s'approprier un cyclomoteur en participant à sa réfection
-          - soit de remettre en état son propre cyclomoteur </pre>
+<img src="images/cle_orange.png" alt="clÃ©" />
+<strong>1 -</strong> Une solution d'autonomie Ã  long terme en permettant aux bÃ©nÃ©ficiaires:</p>
+<pre>          - soit de s'approprier un cyclomoteur en participant Ã  sa rÃ©fection
+          - soit de remettre en Ã©tat son propre cyclomoteur </pre>
 
 <pre class="alignLeft">
-<img src="images/cle_orange.png" alt="clé" /> <strong>2 -</strong> Un "module de redynamisation" : pour les personnes très éloignées 
-          de l'emploi, un atelier permettant de retrouver le savoir-être et 
-          l'estime de soi à travers l'activité mécanique, la restauration 
+<img src="images/cle_orange.png" alt="clÃ©" /> <strong>2 -</strong> Un "module de redynamisation" : pour les personnes trÃ¨s Ã©loignÃ©es 
+          de l'emploi, un atelier permettant de retrouver le savoir-Ãªtre et 
+          l'estime de soi Ã  travers l'activitÃ© mÃ©canique, la restauration 
           de deux-roues.</pre>
-		  
+      
 <pre class="alignLeft">
-<img src="images/cle_orange.png" alt="clé" /> <strong>3 -</strong> L'accueil de groupes issus de structures éducatives autour 
-          de projets spécifiques.</pre>
+<img src="images/cle_orange.png" alt="clÃ©" /> <strong>3 -</strong> L'accueil de groupes issus de structures Ã©ducatives autour 
+          de projets spÃ©cifiques.</pre>
 
 <pre class="alignLeft">
-<img src="images/cle_orange.png" alt="clé" /> <strong>4 -</strong> L'entretien et la maintenance du parc de cyclomoteurs.</pre>
+<img src="images/cle_orange.png" alt="clÃ©" /> <strong>4 -</strong> L'entretien et la maintenance du parc de cyclomoteurs.</pre>
 
 <pre>
 
 </pre>
 
-<p>L'atelier est équipé pour la pratique de la mécanique, l'encadrement
-est assuré par un responsable technique d'atelier.<br/>
-Les locaux sont pourvus d'un secrétariat, d'une salle de cours, d'un coin cuisine.</p>
+<p>L'atelier est Ã©quipÃ© pour la pratique de la mÃ©canique, l'encadrement
+est assurÃ© par un responsable technique d'atelier.<br/>
+Les locaux sont pourvus d'un secrÃ©tariat, d'une salle de cours, d'un coin cuisine.</p>
 
 
-<p>Pour le fonctionnement de l'espace atelier mécanique, les dons de cycles,
-cyclomoteurs et motocycles sont les bienvenus, quel que soit leur état.</p>
+<p>Pour le fonctionnement de l'espace atelier mÃ©canique, les dons de cycles,
+cyclomoteurs et motocycles sont les bienvenus, quel que soit leur Ã©tat.</p>
 
 
-<p class="gras">MOB 60 sera ouvert aux personnes handicapées sous réserve que leur handicap
-ne soit pas incompatible avec la pratique de la mécanique
+<p class="gras">MOB 60 sera ouvert aux personnes handicapÃ©es sous rÃ©serve que leur handicap
+ne soit pas incompatible avec la pratique de la mÃ©canique
 ou l'utilisation d'un cyclomoteur.</p>
 
-<p>Cliquez sur la clé pour accéder à la fiche de prescription :<br/></p>
+<p>Cliquez sur la clÃ© pour accÃ©der Ã  la fiche de prescription :<br/></p>
 
 <a href="fiche_de_prescription.php"><img src="images/cle_orange_lien.png" alt="Fiche de prescription" /></a>
 

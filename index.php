@@ -1,19 +1,19 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
-		<link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
+    <link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
-	
-	<meta http-equiv="Content-Language" content="fr">
-	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-	<title>Accueil - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
-	<meta name="description" content="MOB 60 , mobilité dans l'Oise et le Beauvaisis, mise à disposition de cyclomoteurs et atelier mécanique.">
-	<meta name="keywords" content="mobilité, Oise, Picardie, Picardi, mobylette, mobillette, mobylete, mob 60, motocycle, 2 roues, Jérome Mullot, http://mob60.free.fr/index.html, http://mob60.free.fr/, insertion, insercion, cyclomoteur, location, atelier, mécanique, location mobylette, location scooter, scooter, problème, problème de déplacement, aide a la mobilité, aide à la mobilité, aide au transport, transport, mécanique deux roues, aide au déplacement, déplacement, problème de déplacement, location de mobylette, location, location de deux roues, location de cyclomoteur, réparation mobylette, réparation scooter, réparation deux roues, réparation cyclomoteur, aide a l'insertion, beauvais, courroy, crevecoeur, mobilité 60, mobilité oise, mobilité oise picarde, mobilité picardie, grandvillers, milly, formerie, marseille en beauvaisis, saint omer en chaussée, breteuil, froissy, ">
-	<meta name="robots" content="all">
-	<meta name="author" content="Léo MULLOT">
-	<meta name="google-site-verification" content="qnsWKUh5MWlNlFaaQEOH58Aqa7CKJhyg6FvPcslXJZA" />
-	
-	 <script type="text/javascript" src="functions.js"></script>
+  
+  <meta http-equiv="Content-Language" content="fr">
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <title>Accueil - MOB 60, MobilitÃ© dans l'Oise et le Beauvaisis</title>
+  <meta name="description" content="MOB 60 , mobilitÃ© dans l'Oise et le Beauvaisis, mise Ã  disposition de cyclomoteurs et atelier mÃ©canique.">
+  <meta name="keywords" content="mobilitÃ©, Oise, Picardie, Picardi, mobylette, mobillette, mobylete, mob 60, motocycle, 2 roues, JÃ©rome Mullot, http://mob60.free.fr/index.html, http://mob60.free.fr/, insertion, insercion, cyclomoteur, location, atelier, mÃ©canique, location mobylette, location scooter, scooter, problÃ¨me, problÃ¨me de dÃ©placement, aide a la mobilitÃ©, aide Ã  la mobilitÃ©, aide au transport, transport, mÃ©canique deux roues, aide au dÃ©placement, dÃ©placement, problÃ¨me de dÃ©placement, location de mobylette, location, location de deux roues, location de cyclomoteur, rÃ©paration mobylette, rÃ©paration scooter, rÃ©paration deux roues, rÃ©paration cyclomoteur, aide a l'insertion, beauvais, courroy, crevecoeur, mobilitÃ© 60, mobilitÃ© oise, mobilitÃ© oise picarde, mobilitÃ© picardie, grandvillers, milly, formerie, marseille en beauvaisis, saint omer en chaussÃ©e, breteuil, froissy, ">
+  <meta name="robots" content="all">
+  <meta name="author" content="LÃ©o MULLOT">
+  <meta name="google-site-verification" content="qnsWKUh5MWlNlFaaQEOH58Aqa7CKJhyg6FvPcslXJZA" />
+  
+   <script type="text/javascript" src="functions.js"></script>
        
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
@@ -66,26 +66,26 @@ setInterval("texteDefile()",15); // delai de deplacement
 
 
 
-<p><del class="gras">MOB 60</del> se fixe comme mission d'aider à l'<del class="gras">insertion sociale et professionnelle</del> des usagers connaissant des difficultés.</p>
+<p><del class="gras">MOB 60</del> se fixe comme mission d'aider Ã  l'<del class="gras">insertion sociale et professionnelle</del> des usagers connaissant des difficultÃ©s.</p>
 
-<p class="gras_souligne">MOB 60 offre aux personnes en difficulté de mobilité :</p>
-
-<p>
-<del class="gras">Un service de mise à disposition de cyclomoteur et de scooter</del> <br/>
-<del class="gras">Une formation de base</del> à la remise en état, à la maintenance de leur deux roues dans le cadre d'un atelier mécanique à vocation technique et préventive.</p>
-
-<p class="gras_souligne">MOB 60 offre aux personnes en difficulté d'insertion sociale et professionnelle :</p>
+<p class="gras_souligne">MOB 60 offre aux personnes en difficultÃ© de mobilitÃ© :</p>
 
 <p>
-<del class="gras">Un espace atelier mécanique à vocation technique et éducative :</del> <br/>
-La finalité de cet atelier est de constituer une <del class="gras">étape de remobilisation individuelle</del> et de <del class="gras">rupture de l'isolement</del></p> 
+<del class="gras">Un service de mise Ã  disposition de cyclomoteur et de scooter</del> <br/>
+<del class="gras">Une formation de base</del> Ã  la remise en Ã©tat, Ã  la maintenance de leur deux roues dans le cadre d'un atelier mÃ©canique Ã  vocation technique et prÃ©ventive.</p>
+
+<p class="gras_souligne">MOB 60 offre aux personnes en difficultÃ© d'insertion sociale et professionnelle :</p>
+
+<p>
+<del class="gras">Un espace atelier mÃ©canique Ã  vocation technique et Ã©ducative :</del> <br/>
+La finalitÃ© de cet atelier est de constituer une <del class="gras">Ã©tape de remobilisation individuelle</del> et de <del class="gras">rupture de l'isolement</del></p> 
 
 
-<p class="gras_souligne">MOB 60, en partenariat avec <br/>l'auto-école de Voisinlieu, propose aux jeunes nés après décembre 1987 :</strong> </p>
-<p><del class="gras">Une formation à la conduite d'un deux-roues</del>, dans l'objectif d'obtenir le permis AM (BSR), mais aussi de sensibiliser ces jeunes à tous les dangers de la route et à l'importance de circuler en règle par rapport à la législation.</p>
+<p class="gras_souligne">MOB 60, en partenariat avec <br/>l'auto-Ã©cole de Voisinlieu, propose aux jeunes nÃ©s aprÃ¨s dÃ©cembre 1987 :</strong> </p>
+<p><del class="gras">Une formation Ã  la conduite d'un deux-roues</del>, dans l'objectif d'obtenir le permis AM (BSR), mais aussi de sensibiliser ces jeunes Ã  tous les dangers de la route et Ã  l'importance de circuler en rÃ¨gle par rapport Ã  la lÃ©gislation.</p>
 
 
-<p class="petit">webmaster : Léo Mullot</p>
+<p class="petit">webmaster : LÃ©o Mullot</p>
 
 </div>
 
