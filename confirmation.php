@@ -5,7 +5,7 @@
 
 <body style="font-family: Arial; font-size: 14pt; text-align: center" text="black">
 <p>Merci d'avoir rempli le formulaire.</p>
-<p>Nous vous contacterons très rapidement.</p>
+<p>Nous vous contacterons trÃ¨s rapidement.</p>
 
 </br >
 

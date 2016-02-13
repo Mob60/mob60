@@ -12,8 +12,8 @@
 
 <div id="en_tete">
    <p>FICHE DE PRESCRIPTION</p><br />
-   <p class="surline">Bénéficiaire > Prescripteur référent > MOB 60</p>
-   <!-- Ici on mettra la bannière -->
+   <p class="surline">BÃ©nÃ©ficiaire > Prescripteur rÃ©fÃ©rent > MOB 60</p>
+   <!-- Ici on mettra la banniÃ¨re -->
 </div>
  
 <div id="menu">
@@ -30,7 +30,7 @@
 
 
    <p>
-       <label for="jour_ou_la_fiche_de_prescription_est_etablie">Fiche de prescription établie le :</label>
+       <label for="jour_ou_la_fiche_de_prescription_est_etablie">Fiche de prescription Ã©tablie le :</label>
        <select name="jour_ou_la_fiche_de_prescription_est_etablie" id="jour_ou_la_fiche_de_prescription_est_etablie" tabindex="3">
            <option value="1">1</option>
            <option value="2">2</option>
@@ -74,17 +74,17 @@
 	   <label for="mois_ou_la_fiche_de_prescription_est_etablie">/</label>
        <select name="mois_ou_la_fiche_de_prescription_est_etablie" id="mois_ou_la_fiche_de_prescription_est_etablie" tabindex="5">
            <option value="Janvier">Janvier</option>
-           <option value="Fevrier">Février</option>
+           <option value="Fevrier">FÃ©vrier</option>
            <option value="Mars">Mars</option>
            <option value="Avril">Avril</option>
            <option value="Mai">Mai</option>
            <option value="Juin">Juin</option>
            <option value="Juillet">Juillet</option>
-           <option value="Aout">Août</option>
+           <option value="Aout">AoÃ»t</option>
 	   <option value="Septembre">Septembre</option>
 	   <option value="Octobre">Octobre</option>
 	   <option value="Novembre">Novembre</option>
-	   <option value="Decembre">Décembre</option>
+	   <option value="Decembre">DÃ©cembre</option>
        </select>
 	   
 	   <label for="annee_ou_la_fiche_de_prescription_est_etablie">/</label>
@@ -95,7 +95,7 @@
 
 
 
-   <p class="center"><strong>Renseignements concernant le bénéficiaire :</strong></p>
+   <p class="center"><strong>Renseignements concernant le bÃ©nÃ©ficiaire :</strong></p>
    
    
    <p>
@@ -103,7 +103,7 @@
        <input type="text" name="Nom" id="Nom" size="30" maxlength="50" tabindex="10" />
    
   
-       <label for="Prénom">Prénom :</label>
+       <label for="PrÃ©nom">PrÃ©nom :</label>
 
        <input type="text" name="Prenom" id="Prenom" size="30" maxlength="50" tabindex="20" />
    </p>
@@ -261,7 +261,7 @@
 
    <p>
 
-       <label for="Tel.">Tél. :</label>
+       <label for="Tel.">TÃ©l. :</label>
        <input type="text" name="Tel." id="Tel" size="30" maxlength="50" tabindex="70" />
    
   
@@ -269,7 +269,7 @@
        <input type="text" name="email_beneficiaire" id="Mail." size="30" maxlength="50" tabindex="80" />
    </p>
 
-   <p>Allocations perçues :<br />
+   <p>Allocations perÃ§ues :<br />
        <input type="checkbox" name="RSA" id="RSA" tabindex="90" /> <label for="RSA">RSA</label> . et/ou .
 
        <input type="checkbox" name="ARE" id="ARE" tabindex="100" /> <label for="ARE">ARE</label> . et/ou .
@@ -282,7 +282,7 @@
 	   
 	   
 	   <p>
-           <label for="precisions">Précisez :</label><br />
+           <label for="precisions">PrÃ©cisez :</label><br />
            <textarea name="precisions_allocation" id="precisions" cols="40" rows="2" tabindex="140"></textarea>
        </p>
 	   
@@ -309,7 +309,7 @@
 	</tr>
 </table>
 
-   <p> A-t-il déjà conduit un cyclomoteur ?<br />
+   <p> A-t-il dÃ©jÃ  conduit un cyclomoteur ?<br />
        <input type="radio" name="a_deja_conduit_un_cyclomoteur" value="Oui" id="Oui" tabindex="170" /> <label for="Oui">oui</label><br />
        <input type="radio" name="a_deja_conduit_un_cyclomoteur" value="Non" id="Non" tabindex="180" /> <label for="Non">non</label><br />
 
@@ -334,8 +334,8 @@
    </p>
 
    <p>
-       <label for="Telephone">Téléphone :</label>
-       <input type="text" name="Telephone" id="Téléphone" size="30" maxlength="50" tabindex="210" />
+       <label for="Telephone">TÃ©lÃ©phone :</label>
+       <input type="text" name="Telephone" id="TÃ©lÃ©phone" size="30" maxlength="50" tabindex="210" />
 
    
   
@@ -352,9 +352,9 @@
  <p><strong>Motif de la demande :</strong></p>
  
    <p>
-       <input type="checkbox" name="pret" id="pret" tabindex="240" /> <label for="pret">Prêt de deux roues</label>
-       <input type="checkbox" name="participation a l'atelier" id="participation a l'atelier" tabindex="250" /> <label for="participation">Participation à l'atelier mécanique</label>
-	   <input type="checkbox" name="BSR pour tous" id="BSR pour tous" tabindex="255" /> <label for="BSR pour tous">Inscription à la formation BSR pour tous</label>
+       <input type="checkbox" name="pret" id="pret" tabindex="240" /> <label for="pret">PrÃªt de deux roues</label>
+       <input type="checkbox" name="participation a l'atelier" id="participation a l'atelier" tabindex="250" /> <label for="participation">Participation Ã  l'atelier mÃ©canique</label>
+	   <input type="checkbox" name="BSR pour tous" id="BSR pour tous" tabindex="255" /> <label for="BSR pour tous">Inscription Ã  la formation BSR pour tous</label>
 	   
    </p>
 
@@ -364,12 +364,12 @@
 		<input type="checkbox" name="travail" id="travail" tabindex="260" /> <label for="travail">Travail</label>
 		<input type="checkbox" name="formation" id="formation" tabindex="270" /> <label for="formation">Formation</label>
 		<input type="checkbox" name="stage" id="stage" tabindex="280" /> <label for="stage">Stage</label>
-		<input type="checkbox" name="embauche" id="embauche" tabindex="290" /> <label for="embauche">Entretien d’embauche</label>
+		<input type="checkbox" name="embauche" id="embauche" tabindex="290" /> <label for="embauche">Entretien dâ€™embauche</label>
    </p>
 
    <p>
-       <label for="duree">Durée de la mise a disposition :</label>
-       <input type="text" name="duree" id="durée" size="30" maxlength="50" tabindex="300" />
+       <label for="duree">DurÃ©e de la mise a disposition :</label>
+       <input type="text" name="duree" id="durÃ©e" size="30" maxlength="50" tabindex="300" />
    </p>
 
 

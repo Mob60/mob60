@@ -3,7 +3,7 @@
    <head>
 		<link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
-       <title>Photos locaux - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
+       <title>Photos locaux - MOB 60, MobilitÃ© dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	   
 	   	 <script type="text/javascript" src="functions.js"></script>

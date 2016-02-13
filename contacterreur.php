@@ -4,8 +4,8 @@
 </head>
 
 
-<p>L'envoi a échoué.</p>
-<p>Avant de cliquer sur Envoyer, vérifiez bien que tous les champs ont été 
+<p>L'envoi a Ã©chouÃ©.</p>
+<p>Avant de cliquer sur Envoyer, vÃ©rifiez bien que tous les champs ont Ã©tÃ© 
 remplis.</p>
 <p>Merci de bien vouloir recommencer.</p>
 <p>
