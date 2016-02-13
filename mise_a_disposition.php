@@ -1,24 +1,25 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
+       <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
        <title>Mise à disposition - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-     
+
        <script type="text/javascript" src="functions.js"></script>
-     
+
    </head>
- 
+
    <body>
 
 
 <?php include ("entete.php"); ?>
- 
+
 <?php include ("menu.php"); ?>
 
 
- 
+
 <div id="corps">
 
 <p>MOB 60 offre aux personnes en difficulté de mobilité :</p>
@@ -38,14 +39,14 @@
 <p class="alignLeft">
 <img src="images/mob_orange.png" alt="mobylette" />
 <strong>Pour quoi ?</strong> <br/>
-<pre>     Se rendre au travail, en formation, en stage, à un entretien 
+<pre>     Se rendre au travail, en formation, en stage, à un entretien
      d'embauche.</pre> </p>
 
 <p class="alignLeft">
 <img src="images/mob_orange.png" alt="mobylette" />
 <strong>Territoire d'intervention</strong> <br/>
-<pre>     Beauvaisis-Oise Picarde : CC de la Picardie Verte, CC de 
-     Crèvecoeur-le-Grand, CC des vallées Brêche et Noye, CC Rurale du 
+<pre>     Beauvaisis-Oise Picarde : CC de la Picardie Verte, CC de
+     Crèvecoeur-le-Grand, CC des vallées Brêche et Noye, CC Rurale du
      Beauvaisis, CC du Pays de Bray, CC du Vexin Thelle et la Communauté
   d'Agglo du Beauvaisis.</pre> </p>
 
@@ -71,15 +72,15 @@
 <p class="alignLeft">
 <img src="images/mob_orange.png" alt="mobylette" />
 <strong>Pièces à fournir</strong> <br/>
-<pre>     - une pièce d'identité, 
+<pre>     - une pièce d'identité,
      - un justificatif de domicile de moins de trois mois,
-     - un contrat de travail, une promesse d'embauche ou une convocation à 
+     - un contrat de travail, une promesse d'embauche ou une convocation à
         un entretien,
-     - le coût de mise à disposition et la caution, 
-     - une autorisation parentale pour les mineurs, 
+     - le coût de mise à disposition et la caution,
+     - une autorisation parentale pour les mineurs,
      - une copie du BSR pour les jeunes nés à partir du 1er janvier 1988.</pre> </p>
 
-   
+
 <p class="alignLeft">
 <img src="images/mob_orange.png" alt="mobylette" />
 <strong>Tarifs</strong> <br/></p>
@@ -91,15 +92,15 @@
 <pre>     Caution* : <strong>300 &#8364 </strong> / 1 journée : <strong>7 &#8364 </strong> / 1 semaine : <strong>20 &#8364 </strong> / 1 mois : <strong>70 &#8364 </strong></pre>
 
 <p class="alignLeft"><ins>*La caution n'est pas encaissée</ins>
-<address>     Le coût de la mise à disposition comprend le deux roues, l'assurance, 
+<address>     Le coût de la mise à disposition comprend le deux roues, l'assurance,
      le casque, l'antivol, le gilet fluorescent et l'entretien du véhicule.</address></pre> </p>
 
-   
+
 <p class="alignLeft">
 <img src="images/mob_orange.png" alt="mobylette" />
 <strong>Durée</strong> <br/>
-<pre>     La mise à disposition est de 1 mois maximum. Elle pourra être 
-     renouvelée 2 fois après validation par le service prescripteur. Une 
+<pre>     La mise à disposition est de 1 mois maximum. Elle pourra être
+     renouvelée 2 fois après validation par le service prescripteur. Une
      solution autonome doit être recherchée à long terme.</pre> </p>
 </br>
 <p>Cliquez sur la mobylette pour accéder à la fiche de prescription :<br/></p>

@@ -1,22 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
+       <link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
        <title>Permis AM - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	   
+
 	   	 <script type="text/javascript" src="functions.js"></script>
-		 
+
    </head>
- 
+
    <body>
 
 
 <?php include ("entete.php"); ?>
- 
+
 <?php include ("menu.php"); ?>
- 
+
 
 <div id="corps">
 
@@ -44,12 +45,12 @@
 <p class="alignLeft">
 <img src="images/mob_orange.png" alt="mobylette" /><strong> Publics concernés par cette action :</strong><br/>
 
-<pre>     L'action « <strong> permis AM </strong> » est ouverte aux jeunes, 
-     nés à partir du 1<SUP>er</SUP> janvier 1988, ayant un projet 
+<pre>     L'action « <strong> permis AM </strong> » est ouverte aux jeunes,
+     nés à partir du 1<SUP>er</SUP> janvier 1988, ayant un projet
      d'insertion professionnelle ou de formation.</pre>
-	 
-<pre>     L'action est ouverte aux personnes handicapées sous réserve 
-     que leur handicap ne soit pas incompatible avec la pratique de 
+
+<pre>     L'action est ouverte aux personnes handicapées sous réserve
+     que leur handicap ne soit pas incompatible avec la pratique de
      la mécanique ou l'utilisation d'un cyclomoteur.</pre></p>
 
 <p class="gras">     L'ASSR1 ou L'ASSR2 ou l'ASR est indispensable pour prétendre à cette formation.</p>

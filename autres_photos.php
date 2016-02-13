@@ -1,20 +1,22 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
+    <link rel="shortcut icon" href="/favicon.ico" />
+
 		<link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
        <title>Autres Photos - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	   
+
 	   	 <script type="text/javascript" src="functions.js"></script>
-		 
+
    </head>
- 
+
    <body>
 
 
 <?php include ("entete.php"); ?>
- 
+
  <?php include ("menu.php"); ?>
 
 
@@ -28,9 +30,9 @@
 			border-style:none;
 			}
 
-	
-	/* // here comes the goodnes  */	
-	
+
+	/* // here comes the goodnes  */
+
 		.gallery, ul#gallery li{
 			margin:0;
 			padding:0;
@@ -44,12 +46,12 @@
 			padding-top:310px;
 			padding-bottom:0px;
 			margin-left: 30px;
-			}			
+			}
 		.gallery li{
 			float:left;
 			display:inline;
 			margin:10px;
-			}								
+			}
 		.gallery a span{
 			display:none;
 			margin-left: 40px;
@@ -58,7 +60,7 @@
 		.gallery a:hover{
 			background:none;
 			z-index:100;
-			}	
+			}
 		.gallery a:hover span{
 			position:absolute;
 			width:400px;
@@ -67,7 +69,7 @@
 			top:0;
 			left:0;
 			display:block;
-			}				
+			}
 
 	/* // goodnes  */
 
@@ -111,25 +113,25 @@
 					<img class="sans_bordure" src="autres/initiation 5_s.jpg" alt="gallery thumbnail">
 					<span><img class="sans_bordure" src="autres/initiation 5.jpg" alt="gallery image"></span>
 				</a>
-			</li>		
+			</li>
 			<li>
 				<a href="#">
 					<img class="sans_bordure" src="autres/Livraison mob 2_s.jpg" alt="gallery thumbnail">
 					<span><img class="sans_bordure" src="autres/Livraison mob 2.jpg" alt="gallery image"></span>
 				</a>
-			</li>	
+			</li>
 			<li>
 				<a href="#">
 					<img class="sans_bordure" src="autres/Une mob pour un job_s.jpg" alt="gallery thumbnail">
 					<span><img class="sans_bordure" src="autres/Une mob pour un job.jpg" alt="gallery image"></span>
 				</a>
-			</li>	
+			</li>
 			<li>
 				<a href="#">
 					<img class="sans_bordure" src="autres/CIMG0012.jpg" width="100" height="75" alt="gallery thumbnail">
 					<span><img class="sans_bordure" src="autres/CIMG0012.jpg" width="400" height="300" alt="gallery image"></span>
 				</a>
-			</li>		
+			</li>
 			<li>
 				<a href="#">
 					<img class="sans_bordure" src="autres/IMG_0342.jpg" width="100" height="75" alt="gallery thumbnail">
@@ -142,7 +144,7 @@
 					<span><img class="sans_bordure" src="autres/PSA et mob60.jpg" alt="gallery image" width="400px" height="268px"></span>
 				</a>
 			</li>
-					
+
 		</ul>
 	</body>
 </html>

@@ -1,9 +1,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
+       <link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css_musique.css" />
 
-	
+
 	<meta http-equiv="Content-Language" content="fr">
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 	<title>Divertissement - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
@@ -12,21 +13,21 @@
 	<meta name="robots" content="all">
 	<meta name="author" content="Léo MULLOT">
 	<meta name="google-site-verification" content="qnsWKUh5MWlNlFaaQEOH58Aqa7CKJhyg6FvPcslXJZA" />
-	
+
 	 <script type="text/javascript" src="functions.js"></script>
-       
+
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
    </head>
- 
+
    <body>
 
 
 <?php include ("entete.php"); ?>
- 
 
- 
-<div id="corps" class="special_musique"> 
+
+
+<div id="corps" class="special_musique">
 
 <p>Vous êtes dans l'espace divertissement de MOB 60, où vous pouvez librement écouter de la musique.<br/> L'équipe de MOB 60 vous souhaite une bonne écoute ! <br/>
 <!--<img src="casque.png" alt="musique" title="musqiue" />-->
