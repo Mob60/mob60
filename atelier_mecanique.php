@@ -1,21 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
+    <link rel="shortcut icon" href="/favicon.ico" />
+
     <link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
        <title>Atelier mécanique - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-     
+
        <script type="text/javascript" src="functions.js"></script>
-     
+
    </head>
- 
+
    <body>
 
 <?php include ("entete.php"); ?>
- 
+
  <?php include ("menu.php"); ?>
- 
+
 <div id="corps">
 
 
@@ -33,13 +35,13 @@
           - soit de remettre en état son propre cyclomoteur </pre>
 
 <pre class="alignLeft">
-<img src="images/cle_orange.png" alt="clé" /> <strong>2 -</strong> Un "module de redynamisation" : pour les personnes très éloignées 
-          de l'emploi, un atelier permettant de retrouver le savoir-être et 
-          l'estime de soi à travers l'activité mécanique, la restauration 
+<img src="images/cle_orange.png" alt="clé" /> <strong>2 -</strong> Un "module de redynamisation" : pour les personnes très éloignées
+          de l'emploi, un atelier permettant de retrouver le savoir-être et
+          l'estime de soi à travers l'activité mécanique, la restauration
           de deux-roues.</pre>
-      
+
 <pre class="alignLeft">
-<img src="images/cle_orange.png" alt="clé" /> <strong>3 -</strong> L'accueil de groupes issus de structures éducatives autour 
+<img src="images/cle_orange.png" alt="clé" /> <strong>3 -</strong> L'accueil de groupes issus de structures éducatives autour
           de projets spécifiques.</pre>
 
 <pre class="alignLeft">

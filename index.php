@@ -1,9 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+
     <link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
-  
+
   <meta http-equiv="Content-Language" content="fr">
   <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
   <title>Accueil - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
@@ -12,26 +15,26 @@
   <meta name="robots" content="all">
   <meta name="author" content="Léo MULLOT">
   <meta name="google-site-verification" content="qnsWKUh5MWlNlFaaQEOH58Aqa7CKJhyg6FvPcslXJZA" />
-  
+
    <script type="text/javascript" src="functions.js"></script>
-       
+
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 
    </head>
- 
+
    <body>
 
 
 <?php include ("entete.php"); ?>
- 
+
 <?php include ("menu.php"); ?>
- 
+
 <div id="corps">
 
-<script language="JavaScript"> 
+<script language="JavaScript">
 var defile;// l'element a deplacer
 var psinit = 580; // position horizontale de depart
-var pscrnt = psinit;       
+var pscrnt = psinit;
 function texteDefile() {
    if (!defile) defile = document.getElementById('defile');
    if (defile) {
@@ -43,7 +46,7 @@ function texteDefile() {
       defile.style.left = pscrnt+"px";
    }
 }
-setInterval("texteDefile()",15); // delai de deplacement  
+setInterval("texteDefile()",15); // delai de deplacement
 </script>
 
 <div id="cadrpg">
@@ -78,7 +81,7 @@ setInterval("texteDefile()",15); // delai de deplacement
 
 <p>
 <del class="gras">Un espace atelier mécanique à vocation technique et éducative :</del> <br/>
-La finalité de cet atelier est de constituer une <del class="gras">étape de remobilisation individuelle</del> et de <del class="gras">rupture de l'isolement</del></p> 
+La finalité de cet atelier est de constituer une <del class="gras">étape de remobilisation individuelle</del> et de <del class="gras">rupture de l'isolement</del></p>
 
 
 <p class="gras_souligne">MOB 60, en partenariat avec <br/>l'auto-école de Voisinlieu, propose aux jeunes nés après décembre 1987 :</strong> </p>

@@ -1,11 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
+       <link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
        <title>Photos stagiaires - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	   
+
 	   	 <script type="text/javascript" src="functions.js"></script>
 
 
@@ -21,14 +22,14 @@
 
 
 
-		 
+
    </head>
- 
+
    <body>
 
 
 <?php include ("entete.php"); ?>
- 
+
 <?php include ("menu.php"); ?>
 
 
@@ -196,7 +197,7 @@
 				</div>
 				<!-- End Advanced Gallery Html Containers -->
 
-				<!-- Add image link -->				
+				<!-- Add image link -->
 				<div style="clear: left; float: left; padding-top: 10px;">
 					<a href="#addImage" id="addImageLink">Insert Image into Position 5</a>
 					<br />

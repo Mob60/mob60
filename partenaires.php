@@ -1,24 +1,25 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" >
    <head>
+       <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="stylesheet" media="screen" type="text/css" title="MOB 60" href="css.css" />
 
        <title>Partenaire - MOB 60, Mobilité dans l'Oise et le Beauvaisis</title>
        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-     
+
        <script type="text/javascript" src="functions.js"></script>
-     
+
    </head>
- 
+
    <body>
 
 
 <?php include ("entete.php"); ?>
- 
+
 <?php include ("menu.php"); ?>
 
 
- 
+
 <div id="corps">
 
 <p>MOB 60 est une association régie par la loi du 1er juillet 1901. Ses actions sont mises en oeuvre grâce au concours des institutions, collectivités et partenaires suivants :<p/>
