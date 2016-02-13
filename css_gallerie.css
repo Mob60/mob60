@@ -1,0 +1,308 @@
+
+
+/**************** Début Général ********************/
+
+
+
+body
+{
+   background-color: rgb(254,214,143);
+   width: 1050px;
+   margin: auto; /* Pour centrer notre page */
+   margin-top: 20px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur */
+   margin-bottom: 20px; 
+   text-align: center;
+   font-size: large;
+   font-family: Trebuchet, Arial, serif;
+   
+}
+#menu
+{
+   float: left; /* Le menu flottera à gauche */
+   width: 215px; /* donne une taille au menu */
+   margin-right: 20px;
+   margin-left: 0px;
+}
+.element_menu
+{
+   background-repeat: repeat-x;
+   margin-bottom: 20px; /* Pour éviter que les éléments du menu ne soient trop collés */
+}
+
+.element_menu ul /* Toutes les listes à puces se trouvant dans un menu */
+{
+   list-style-type: none; /* On change l'apparence des puces */
+   padding: 0px; /* Tous les côtés ont une marge intérieure de 0 pixels */
+   padding-left: 0px; /* ... mais on modifie ensuite la marge de gauche, donc celle-là fera finalement 20 pixels */
+   margin: 0px; /* Idem pour margin, ça nous évite d'avoir à en écrire 4 (margin-left, margin-right...) */
+   margin-bottom: 5px; /* Même chose que tout à l'heure, on modifie ensuite juste margin-bottom, mais tous les autres sont à 0px */
+   margin-right: 0px;
+}
+
+.element_menu li img
+{
+   border: 2px solid green;
+   margin-right: 0px;
+}
+
+}
+#en_tete
+{
+	text-align: center;
+   background-repeat: no-repeat;
+   margin-bottom: 10px;
+   text-decoration: underline;
+
+}
+#corps
+{
+   margin-left: 215px; /* Une marge à gauche pour pousser le corps, afin qu'il ne passe plus sous le menu */
+   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
+   margin-top : 20px;
+   padding: 5px; /* Pour éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
+   border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+
+#pied_de_page
+{
+   padding: 5px;
+   text-align: center;
+   color: #B3B3B3;
+   background-color: #626262;
+   background-repeat: repeat-x;
+   border: 2px solid black;
+}
+a
+{
+	color: green;
+}
+a:hover
+{
+   color: orange;
+}
+ul, ol
+{
+	text-align: left;
+	line-height: 10px;
+}
+li
+{
+	margin-bottom:20px;
+}
+p strong
+{
+	color: green;
+}
+pre
+{
+	font-family: Trebuchet,"Comic Sans MS", Arial, serif;
+	text-align: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+address
+{
+	color: green;
+	text-align: left;
+	font-style: normal;
+}
+ins
+{
+	font-size: 9px;
+    margin-top: -25px;
+}
+pre strong
+{
+	color: green;
+}
+h2
+{
+	color: orange;
+}
+.gras
+{
+	font-weight: bold;
+	text-decoration: none;
+}
+.gras_souligne
+{
+	font-weight: bold;
+	text-decoration: underline;
+	color: green;
+}
+.gras
+{
+	font-weight: bold;
+	text-decoration: none;
+}
+.gras_centre
+{
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+}
+.souligne
+{
+	text-decoration: underline;
+}
+.normal
+{
+	font-size: small;
+}
+.alignLeft
+{
+	text-align: left;
+}
+.imageflottante
+{
+   float: right;
+}
+.imageflottante_gauche
+{
+   float: left;
+}
+.center
+{
+	text-align: center;
+}
+.petit
+{
+	font-size: 9px;
+	text-align: right;
+}
+
+.lien_sans_bordure img
+{
+	border-color: rgb(254,214,143);
+	color: rgb(254,214,143);
+}
+/*.lien_sans_bordure img:hover
+{
+	border-style: outset;
+}
+.lien_sans_bordure img:active
+{
+	border-style: inset;
+}*/
+
+.partenaire_sans_bordure
+{
+	border-color: rgb(254,214,143);
+	color: rgb(254,214,143);
+}
+/*.partenaire_sans_bordure img:hover
+{
+	border-style: outset;
+}
+.partenaire_sans_bordure img:active
+{
+	border-style: inset;
+}*/
+
+
+/**************** Fin Général ********************/
+
+
+
+
+/************** Titre déroulant ******************/
+
+#cadrpg { width:600px; margin:0 auto; border:0; overflow:hidden;}
+#newshr { position:relative; width:580px; height:85px; overflow:hidden; 
+          color:inherit; background: url("images/mob_gris.png"); border:1px inset white; }
+#defile { position:absolute; margin-top:1px; background-color:transparent; }
+
+
+/*************** Fin titre déroulant ****************/
+
+
+
+
+/************ Début de l'onglet ***************/
+
+
+.menu2{
+	width:500px;
+	background:#e7474e;
+	margin:0 auto;
+	height:50px;
+	color:#000;
+}
+.menu-photo1{
+	float:left;
+	width:167px;
+	height:45px;
+	text-align:center;
+}
+.menu-photo2{
+	float:left;
+	width:166.5px;
+	height:45px;
+	text-align:center;
+}
+.menu-photo1 a{
+	display:block;
+	height:30px;
+	padding-top:15px;
+}
+.menu-photo2 a{
+	display:block;
+	height:30px;
+	padding-top:15px;
+}
+.menu-photo1 a:link, .menu-photo1 a:visited{
+	text-decoration:none;
+	color:#000;
+	font-family:verdana, sans-serif;
+	font-size:12px;
+	background:#abc url(fond.jpg) 0 -45px;
+}
+.menu-photo2 a:link, .menu-photo2 a:visited{
+	text-decoration:none;
+	color:#000;
+	font-family:verdana, sans-serif;
+	font-size:12px;
+	background:#abc url(fond.jpg) 0 -45px;
+}
+.menu-photo1#activ a:link, .menu-photo1#activ a:visited{
+	background:#abc url(fond.jpg);
+	color:#000;
+}
+.menu-photo2#activ a:link, .menu-photo2#activ a:visited{
+	background:#abc url(fond.jpg);
+	color:#000;
+}
+.menu-photo1 a:hover, .menu-photo1 a:active, .menu-photo1 a:focus{
+	background:#abc url(fond.jpg) 2 -90px;
+	color:#393;
+}
+.menu-photo2 a:hover, .menu-photo2 a:active, .menu-photo2 a:focus{
+	background:#abc url(fond.jpg) 2 -90px;
+	color:#393;
+}
+.menu-photo1#activ a:hover, .menu-photo1 #activ a:active, .menu-photo1#activ a:focus{
+	background:#abc url(fond.jpg);
+	color:#393;
+}
+.menu-photo2#activ a:hover, .menu-photo2 #activ a:active, .menu-photo2#activ a:focus{
+	background:#abc url(fond.jpg);
+	color:#393;
+}
+
+
+.menu-photo1
+{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+
+.menu-photo2
+{
+	text-decoration: none;
+}
+
+
+
+
+/*********** Fin de l'onglet ***************/

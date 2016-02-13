@@ -1,0 +1,49 @@
+body
+{
+   width: 760px;
+   margin: auto; /* Pour centrer notre page */
+   margin-top: 20px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur. Essayez d'enlever pour voir ! */
+   margin-bottom: 20px;
+}
+#en_tete
+{
+	text-align: center;
+   background-repeat: no-repeat;
+   margin-bottom: 10px;
+   text-decoration: underline;
+
+}
+#corps
+{
+	
+   margin-bottom: 20px; /* Ca c'est pour éviter que le corps colle trop au pied de page en-dessous */
+   padding: 5px; /* Pour éviter que le texte à l'intérieur du corps ne colle trop à la bordure */
+   color: black;
+   border: 2px solid black; /* Une bordure pour bien marquer les limites du corps et pour faire joli */
+}
+#pied_de_page
+{
+   padding: 5px;
+
+   text-align: center;
+
+   background-repeat: repeat-x;
+   border: 2px solid black;
+}
+a
+{
+	color: green;
+}
+a:hover
+{
+   background-color: #B3B3B3;
+   color: black;
+}
+.center
+{
+	text-align: center;
+}
+.surline
+{
+	background-color: silver;
+}
