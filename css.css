@@ -4,14 +4,14 @@
 
 
 /* Déclaration de trebuchet MS */
-@font-face 
+@font-face
 {
     font-family: "trebuchet_MS";
     src: url('police/trebuchet_MS.ttf');
 }
- 
+
 /* Déclaration de trebuchet version "gras" */
-@font-face 
+@font-face
 {
     font-family: "trebuchet_MS";
     font-weight: bold;
@@ -26,11 +26,11 @@ body
    width: 900px;
    margin: auto; /* Pour centrer notre page */
    margin-top: 20px; /* Pour éviter de coller avec le haut de la fenêtre du navigateur */
-   margin-bottom: 20px; 
+   margin-bottom: 20px;
    text-align: center;
    font-size: large;
    font-family: "trebuchet_MS", Arial, serif;
-   
+
 }
 #menu
 {
@@ -224,7 +224,7 @@ h2
 /************** Titre déroulant ******************/
 
 #cadrpg { width:600px; margin:0 auto; border:0; overflow:hidden;}
-#newshr { position:relative; width:580px; height:85px; overflow:hidden; 
+#newshr { position:relative; width:580px; height:85px; overflow:hidden;
           color:inherit; background: url("images/mob_gris.png"); border:1px inset white; }
 #defile { position:absolute; margin-top:1px; background-color:transparent; }
 
@@ -322,3 +322,16 @@ h2
 
 
 /*********** Fin de l'onglet ***************/
+
+/******* Actus home *************/
+.news-push {
+	border: 2px solid #000000;
+	margin: 10px 0 0 0;
+	padding: 10px;
+	text-align: justify;
+}
+
+.news-push img {
+	background: #7c2559;
+	border: none;
+}

@@ -64,7 +64,21 @@ setInterval("texteDefile()",15); // delai de deplacement
 
  </div>
 
-
+<div class="news-push">
+  <h3>Actualités</h3>
+  <h4>Participation aux trophées des Elanceurs du groupe LA POSTE</h4>
+  <p>
+    MOB 60 a participé aux trophées des Elanceurs du groupe LA POSTE. Le jury a sélectionné 10 projets qui correspondent à leurs critères : Innovant, Pérenne, Responsable,et Réaliste.
+Notre nouveau projet intitulé "Mobilité douce pour insertion durable" fait partie des 10 projets retenus. Youpi...
+  </p>
+  <p>Sur les 10 dossiers, 3 seront sélectionnés par les internautes. </p>
+  <p>
+    Vous pouvez voter jusqu'au 14 mars. On clique sur le logo des Elanceurs ci-dessous, la vidéo fait peur, pas de panique, vous descendez sous le texte et cliquez sur vote, et voilà c'est fait....Merci à tous !
+  </p>
+  <p class="center">
+    <a href="http://www.leselanceursdugroupelaposte.fr/trophee/projet-mob-60" title="Voter pour mob 60 !" target="_blank"><img src="images/actu/logo_elanceurs.png" alt="Logo Les elanceurs"></a>
+  </p>
+</div>
 
 
 
